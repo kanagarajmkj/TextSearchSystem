@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextSearchSystem", "TextSearchSystem\TextSearchSystem.csproj", "{C6E71F82-F39B-40AC-9CA5-D9EE7DAC8F49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Index", "Index\Index.csproj", "{DA613A70-10E3-4D7F-8BA0-D64B2E722B18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search", "Search\Search.csproj", "{00B2BFD2-7A8C-461C-A280-24880FA57A98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextSearchSystem.Test", "TextSearchSystem.Test\TextSearchSystem.Test.csproj", "{234B72FF-9FC6-4E6F-AAFD-C2E891120F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6E71F82-F39B-40AC-9CA5-D9EE7DAC8F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E71F82-F39B-40AC-9CA5-D9EE7DAC8F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E71F82-F39B-40AC-9CA5-D9EE7DAC8F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E71F82-F39B-40AC-9CA5-D9EE7DAC8F49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA613A70-10E3-4D7F-8BA0-D64B2E722B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA613A70-10E3-4D7F-8BA0-D64B2E722B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA613A70-10E3-4D7F-8BA0-D64B2E722B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA613A70-10E3-4D7F-8BA0-D64B2E722B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B2BFD2-7A8C-461C-A280-24880FA57A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B2BFD2-7A8C-461C-A280-24880FA57A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B2BFD2-7A8C-461C-A280-24880FA57A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B2BFD2-7A8C-461C-A280-24880FA57A98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{234B72FF-9FC6-4E6F-AAFD-C2E891120F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234B72FF-9FC6-4E6F-AAFD-C2E891120F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234B72FF-9FC6-4E6F-AAFD-C2E891120F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234B72FF-9FC6-4E6F-AAFD-C2E891120F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

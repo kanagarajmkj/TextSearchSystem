@@ -1,0 +1,8 @@
+D:\Prod\Text Search System\Search\bin\Debug\Search.exe.config
+D:\Prod\Text Search System\Search\bin\Debug\Search.exe
+D:\Prod\Text Search System\Search\bin\Debug\Search.pdb
+D:\Prod\Text Search System\Search\bin\Debug\TextSearchSystem.dll
+D:\Prod\Text Search System\Search\bin\Debug\TextSearchSystem.pdb
+D:\Prod\Text Search System\Search\obj\Debug\Search.csprojResolveAssemblyReference.cache
+D:\Prod\Text Search System\Search\obj\Debug\Search.exe
+D:\Prod\Text Search System\Search\obj\Debug\Search.pdb

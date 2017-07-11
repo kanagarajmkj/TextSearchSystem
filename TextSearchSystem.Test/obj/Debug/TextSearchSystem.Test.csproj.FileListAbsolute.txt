@@ -1,0 +1,14 @@
+D:\Prod\Text Search System\TextSearchSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Prod\Text Search System\TextSearchSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Prod\Text Search System\TextSearchSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Prod\Text Search System\TextSearchSystem.Test\bin\Debug\TextSearchSystem.Test.dll
+D:\Prod\Text Search System\TextSearchSystem.Test\bin\Debug\TextSearchSystem.Test.pdb
+D:\Prod\Text Search System\TextSearchSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Prod\Text Search System\TextSearchSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Prod\Text Search System\TextSearchSystem.Test\bin\Debug\TextSearchSystem.dll
+D:\Prod\Text Search System\TextSearchSystem.Test\bin\Debug\TextSearchSystem.pdb
+D:\Prod\Text Search System\TextSearchSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Prod\Text Search System\TextSearchSystem.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Prod\Text Search System\TextSearchSystem.Test\obj\Debug\TextSearchSystem.Test.csprojResolveAssemblyReference.cache
+D:\Prod\Text Search System\TextSearchSystem.Test\obj\Debug\TextSearchSystem.Test.dll
+D:\Prod\Text Search System\TextSearchSystem.Test\obj\Debug\TextSearchSystem.Test.pdb

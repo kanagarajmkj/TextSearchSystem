@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextIndexes>
+  <Files>
+    <File>
+      <id>0</id>
+      <name>test1.txt</name>
+      <path>D:\Prod\Text Search System\TextSearchSystem.Test\TestData\test1.txt</path>
+    </File>
+    <File>
+      <id>1</id>
+      <name>test2.txt</name>
+      <path>D:\Prod\Text Search System\TextSearchSystem.Test\TestData\test2.txt</path>
+    </File>
+    <File>
+      <id>2</id>
+      <name>test3.txt</name>
+      <path>D:\Prod\Text Search System\TextSearchSystem.Test\TestData\test3.txt</path>
+    </File>
+  </Files>
+  <Indexes>
+    <Index word="what">[[0,3,221],[1,3,223,439]]</Index>
+    <Index word="is">[[0,13,231],[1,13,233,449],[2,746]]</Index>
+    <Index word="the">[[0,19,69,175,203,237,287,389,417],[1,19,69,175,203,239,289,391,419,455],[2,299,315,420,456,537,568,592,634,953,1264,1354,1396,1432,1466,1621,1774,1811,2208,2489,2690,2838,2952,3069,3257,3408,3428]]</Index>
+    <Index word="name">[[0,27,245],[1,27,247,463]]</Index>
+    <Index word="for">[[0,37,255],[1,37,257,473],[2,831,920,1066,1594,2015,2061,2278,2375,2462,3065,3424]]</Index>
+    <Index word="printing">[[0,45,263],[1,45,265,481]]</Index>
+    <Index word="in">[[0,63,281],[1,63,283],[2,950,1841,2396]]</Index>
+    <Index word="header">[[0,77,93,295,311],[1,77,93,297,313]]</Index>
+    <Index word="files">[[0,107,325],[1,107,327],[2,396,496,682,786,1197,1363,1519,1549,1854,1891,2408,2679,2827]]</Index>
+    <Index word="can">[[0,119,337],[1,119,339],[2,411,621,906,1388,1453,1965]]</Index>
+    <Index word="be">[[0,127,345],[1,127,347]]</Index>
+    <Index word="used">[[0,133,351],[1,133,353]]</Index>
+    <Index word="to">[[0,143,361],[1,143,363],[2,479,507,557,657,1046,1168,1416,1489,1574,1703,1987,2049,2126,2266,2365,2566]]</Index>
+    <Index word="test">[[0,149,367],[1,149,369]]</Index>
+    <Index word="check">[[0,163,377],[1,163,379]]</Index>
+    <Index word="format">[[0,183,397],[1,183,399]]</Index>
+    <Index word="of">[[0,197,411],[1,197,413],[2,312,2219]]</Index>
+    <Index word="file">[[0,211,425],[1,211,427],[2,2755,2888]]</Index>
+    <Index word="topic">[[2,6]]</Index>
+    <Index word="windows">[[2,17,94,161,195,319,355,924,1240,3339]]</Index>
+    <Index word="powershell">[[2,25,102,169,203,327,363,932,1248,3347]]</Index>
+    <Index word="help">[[2,36,83,180,391,429,467,491,545,572,645,677,733,781,797,826,888,915,1061,1115,1158,1192,1336,1358,1404,1436,1477,1514,1544,1632,1665,1677,1764,1782,1803,1849,1886,1902,1927,1982,2010,2056,2096,2140,2170,2273,2334,2403,2436,2497,2531,2540,2645,2674,2781,2822,2911,2941,2990,3060,3128,3162,3246,3298,3328,3378,3412,3487,3503,3520,3539]]</Index>
+    <Index word="system">[[2,41]]</Index>
+    <Index word="short">[[2,51]]</Index>
+    <Index word="description">[[2,57,144]]</Index>
+    <Index word="displays">[[2,74,802,1794,1907,2932,3153,3237,3319]]</Index>
+    <Index word="about">[[2,88,1615,1932,2339,2483,2946,3167,3251,3303,3333,3471]]</Index>
+    <Index word="cmdlets">[[2,113,214,835,1938,2019]]</Index>
+    <Index word="and">[[2,121,248,261,524,861,1180,1946,2027,2703,2809]]</Index>
+    <Index word="concepts">[[2,125,274]]</Index>
+    <Index word="long">[[2,139]]</Index>
+    <Index word="describes">[[2,185]]</Index>
+    <Index word="functions">[[2,228,850,1950,2031]]</Index>
+    <Index word="scripts">[[2,239,865]]</Index>
+    <Index word="modules">[[2,252,3309,3358]]</Index>
+    <Index word="explains">[[2,265]]</Index>
+    <Index word="including">[[2,284]]</Index>
+    <Index word="elements">[[2,303]]</Index>
+    <Index word="language">[[2,338,2295]]</Index>
+    <Index word="does">[[2,374]]</Index>
+    <Index word="not">[[2,379]]</Index>
+    <Index word="include">[[2,383]]</Index>
+    <Index word="but">[[2,403]]</Index>
+    <Index word="you">[[2,407,617,902,1384,1449,1961]]</Index>
+    <Index word="read">[[2,415]]</Index>
+    <Index word="topics">[[2,434,582,1441,2233,3417]]</Index>
+    <Index word="online">[[2,441,881,943,1054,1135,1683,2003,2133,2190,2546,3008,3053]]</Index>
+    <Index word="or">[[2,449,1081,1697,2292,2386,2560,2883]]</Index>
+    <Index word="use">[[2,452,533,630,1392,1462,1974]]</Index>
+    <Index word="update">[[2,460,638,1151,1329,1470,1625,1670,2774,3532]]</Index>
+    <Index word="cmdlet">[[2,472,550,650,1074,1409,1482,1637,1787,2067,2502,2968,3085,3273]]</Index>
+    <Index word="download">[[2,482,660,1171,1497,2665]]</Index>
+    <Index word="your">[[2,510,722,1206,1533,1863]]</Index>
+    <Index word="computer">[[2,515,1211,1868]]</Index>
+    <Index word="then">[[2,528]]</Index>
+    <Index word="get">[[2,541,793,1111,1400,1661,1760,1778,1898,1978,2052,2092,2129,2166,2269,2330,2432,2493,2527,2536,2907,2916,2956,2986,2995,3073,3133,3173,3212,3261,3294,3374,3499]]</Index>
+    <Index word="display">[[2,560,1424,1990]]</Index>
+    <Index word="at">[[2,589,988,1808,3194]]</Index>
+    <Index word="command">[[2,596,1815]]</Index>
+    <Index word="line">[[2,604,1823]]</Index>
+    <Index word="also">[[2,625,1457,1969,3458]]</Index>
+    <Index word="updated">[[2,669,1506]]</Index>
+    <Index word="as">[[2,693,1273]]</Index>
+    <Index word="they">[[2,696]]</Index>
+    <Index word="are">[[2,701,1369,1555]]</Index>
+    <Index word="released">[[2,705]]</Index>
+    <Index word="so">[[2,714,1525]]</Index>
+    <Index word="that">[[2,717,1528]]</Index>
+    <Index word="local">[[2,727,1538]]</Index>
+    <Index word="content">[[2,738,1833]]</Index>
+    <Index word="never">[[2,749]]</Index>
+    <Index word="obsolete">[[2,755]]</Index>
+    <Index word="without">[[2,773,1878]]</Index>
+    <Index word="auto">[[2,811]]</Index>
+    <Index word="generated">[[2,816]]</Index>
+    <Index word="find">[[2,910]]</Index>
+    <Index word="technet">[[2,957]]</Index>
+    <Index word="library">[[2,965]]</Index>
+    <Index word="beginning">[[2,978]]</Index>
+    <Index word="http">[[2,991,1707,2570]]</Index>
+    <Index word="//go">[[2,996,1712,2575]]</Index>
+    <Index word="microsoft">[[2,1001,1717,2580]]</Index>
+    <Index word="com/fwlink/">[[2,1011,1727,2590]]</Index>
+    <Index word="linkid=108518">[[2,1023]]</Index>
+    <Index word="open">[[2,1049]]</Index>
+    <Index word="any">[[2,1070]]</Index>
+    <Index word="function">[[2,1084]]</Index>
+    <Index word="type">[[2,1094,1310,1645,2075,2146,2313,2415,2510]]</Index>
+    <Index word="&lt;cmdlet">[[2,1120,2101,2175]]</Index>
+    <Index word="name&gt;">[[2,1128,2109,2183,2352]]</Index>
+    <Index word="install">[[2,1184]]</Index>
+    <Index word="on">[[2,1203,1860,2750]]</Index>
+    <Index word="1">[[2,1231]]</Index>
+    <Index word="start">[[2,1234]]</Index>
+    <Index word="with">[[2,1259,2246]]</Index>
+    <Index word="&quot;run">[[2,1268]]</Index>
+    <Index word="administrator&quot;">[[2,1276]]</Index>
+    <Index word="option">[[2,1291]]</Index>
+    <Index word="2">[[2,1307]]</Index>
+    <Index word="after">[[2,1348]]</Index>
+    <Index word="installed">[[2,1373]]</Index>
+    <Index word="always">[[2,1559]]</Index>
+    <Index word="up">[[2,1571]]</Index>
+    <Index word="date">[[2,1577]]</Index>
+    <Index word="more">[[2,1598,2466]]</Index>
+    <Index word="information">[[2,1603,2471]]</Index>
+    <Index word="go">[[2,1700,2563]]</Index>
+    <Index word="linkid=210614">[[2,1739]]</Index>
+    <Index word="from">[[2,1828,2685,2833]]</Index>
+    <Index word="basic">[[2,1916]]</Index>
+    <Index word="a">[[2,2065,2282,2379,2753,2886,3197]]</Index>
+    <Index word="titles">[[2,2212]]</Index>
+    <Index word="conceptual">[[2,2222]]</Index>
+    <Index word="begin">[[2,2240]]</Index>
+    <Index word="&quot;about">[[2,2251]]</Index>
+    <Index word="&quot;">[[2,2258,3447]]</Index>
+    <Index word="concept">[[2,2284]]</Index>
+    <Index word="element">[[2,2304]]</Index>
+    <Index word="&lt;topic">[[2,2345]]</Index>
+    <Index word="search">[[2,2368]]</Index>
+    <Index word="word">[[2,2381,3432]]</Index>
+    <Index word="phrase">[[2,2389]]</Index>
+    <Index word="all">[[2,2399]]</Index>
+    <Index word="&lt;search">[[2,2441]]</Index>
+    <Index word="term&gt;">[[2,2449]]</Index>
+    <Index word="linkid=113316">[[2,2602]]</Index>
+    <Index word="examples">[[2,2623]]</Index>
+    <Index word="save">[[2,2640,3515]]</Index>
+    <Index word="internet">[[2,2694,2874]]</Index>
+    <Index word="saves">[[2,2707]]</Index>
+    <Index word="them">[[2,2745]]</Index>
+    <Index word="share">[[2,2760,2893]]</Index>
+    <Index word="downloads">[[2,2799]]</Index>
+    <Index word="installs">[[2,2813]]</Index>
+    <Index word="process">[[2,2920,2960,2999,3077,3137,3177,3216,3265]]</Index>
+    <Index word="opens">[[2,3047]]</Index>
+    <Index word="one">[[2,3185]]</Index>
+    <Index word="page">[[2,3189]]</Index>
+    <Index word="time">[[2,3199]]</Index>
+    <Index word="remoting">[[2,3383]]</Index>
+    <Index word="searches">[[2,3399]]</Index>
+    <Index word="&quot;remoting">[[2,3437]]</Index>
+    <Index word="see">[[2,3454]]</Index>
+    <Index word="updatable">[[2,3477]]</Index>
+  </Indexes>
+</TextIndexes>

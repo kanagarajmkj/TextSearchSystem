@@ -1,0 +1,8 @@
+D:\Prod\Text Search System\Index\bin\Debug\Index.exe.config
+D:\Prod\Text Search System\Index\bin\Debug\Index.exe
+D:\Prod\Text Search System\Index\bin\Debug\Index.pdb
+D:\Prod\Text Search System\Index\bin\Debug\TextSearchSystem.dll
+D:\Prod\Text Search System\Index\bin\Debug\TextSearchSystem.pdb
+D:\Prod\Text Search System\Index\obj\Debug\Index.csprojResolveAssemblyReference.cache
+D:\Prod\Text Search System\Index\obj\Debug\Index.exe
+D:\Prod\Text Search System\Index\obj\Debug\Index.pdb

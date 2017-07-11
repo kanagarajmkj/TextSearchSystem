@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextIndexes>
+  <Files>
+    <File>
+      <id>0</id>
+      <name>test1.txt</name>
+      <path>D:\Prod\Text Search System\TextSearchSystem.Test\TestData\test1.txt</path>
+    </File>
+  </Files>
+  <Indexes>
+    <Index word="what">[[0,3,221]]</Index>
+    <Index word="is">[[0,13,231]]</Index>
+    <Index word="the">[[0,19,69,175,203,237,287,389,417]]</Index>
+    <Index word="name">[[0,27,245]]</Index>
+    <Index word="for">[[0,37,255]]</Index>
+    <Index word="printing">[[0,45,263]]</Index>
+    <Index word="in">[[0,63,281]]</Index>
+    <Index word="header">[[0,77,93,295,311]]</Index>
+    <Index word="files">[[0,107,325]]</Index>
+    <Index word="can">[[0,119,337]]</Index>
+    <Index word="be">[[0,127,345]]</Index>
+    <Index word="used">[[0,133,351]]</Index>
+    <Index word="to">[[0,143,361]]</Index>
+    <Index word="test">[[0,149,367]]</Index>
+    <Index word="check">[[0,163,377]]</Index>
+    <Index word="format">[[0,183,397]]</Index>
+    <Index word="of">[[0,197,411]]</Index>
+    <Index word="file">[[0,211,425]]</Index>
+  </Indexes>
+</TextIndexes>
