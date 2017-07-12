@@ -3,3 +3,8 @@ D:\Prod\Text Search System\TextSearchSystem\bin\Debug\TextSearchSystem.pdb
 D:\Prod\Text Search System\TextSearchSystem\obj\Debug\TextSearchSystem.csprojResolveAssemblyReference.cache
 D:\Prod\Text Search System\TextSearchSystem\obj\Debug\TextSearchSystem.dll
 D:\Prod\Text Search System\TextSearchSystem\obj\Debug\TextSearchSystem.pdb
+D:\github\TextSearchSystem\TextSearchSystem\bin\Debug\TextSearchSystem.dll
+D:\github\TextSearchSystem\TextSearchSystem\bin\Debug\TextSearchSystem.pdb
+D:\github\TextSearchSystem\TextSearchSystem\obj\Debug\TextSearchSystem.csprojResolveAssemblyReference.cache
+D:\github\TextSearchSystem\TextSearchSystem\obj\Debug\TextSearchSystem.dll
+D:\github\TextSearchSystem\TextSearchSystem\obj\Debug\TextSearchSystem.pdb

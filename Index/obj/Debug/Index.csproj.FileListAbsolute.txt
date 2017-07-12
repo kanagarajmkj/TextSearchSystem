@@ -6,3 +6,11 @@ D:\Prod\Text Search System\Index\bin\Debug\TextSearchSystem.pdb
 D:\Prod\Text Search System\Index\obj\Debug\Index.csprojResolveAssemblyReference.cache
 D:\Prod\Text Search System\Index\obj\Debug\Index.exe
 D:\Prod\Text Search System\Index\obj\Debug\Index.pdb
+D:\github\TextSearchSystem\Index\bin\Debug\Index.exe.config
+D:\github\TextSearchSystem\Index\bin\Debug\Index.exe
+D:\github\TextSearchSystem\Index\bin\Debug\Index.pdb
+D:\github\TextSearchSystem\Index\bin\Debug\TextSearchSystem.dll
+D:\github\TextSearchSystem\Index\bin\Debug\TextSearchSystem.pdb
+D:\github\TextSearchSystem\Index\obj\Debug\Index.csprojResolveAssemblyReference.cache
+D:\github\TextSearchSystem\Index\obj\Debug\Index.exe
+D:\github\TextSearchSystem\Index\obj\Debug\Index.pdb

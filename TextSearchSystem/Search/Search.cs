@@ -247,7 +247,7 @@ namespace TextSearchSystem.Search
                     var containingFile = containingFiles[i];
                     var fileId = containingFile[0];
                     containingFile.RemoveAt(0);
-                    foundFiles.Add(new FoundFile() {Id = fileId, Name = GetFileNameById(doc, fileId), Count = containingFile.Count - 1, Positions = containingFile });
+                    foundFiles.Add(new FoundFile() {Id = fileId, Name = GetFileNameById(doc, fileId), Count = containingFile.Count, Positions = containingFile });
                 }
                 return foundFiles;
             }
